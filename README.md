@@ -41,13 +41,13 @@
 &emsp;&emsp;[@九天Hector真人讲解最新大模型技术栈梳理！](https://bilibili.com/video/BV1sR2mYeECv)玩转开源&在线大模型！微调、RAG、Agent开发全进阶技术详解！
 
 ## 1、在线大模型
- - ### OpenAI Realtime API @九天Hector
+- OpenAI Realtime API @九天Hector
   - [x] [OpenAI 实时语音API发布介绍（课件）](./Online-model/OpenAI-Realtime-API%20/OpenAI-Realtime-Release-Introduction.md)
   - [x] [OpenAI毫秒级实时语音Realtime API重磅上线（视频）](https://www.bilibili.com/video/BV1jpCoYqE4e)
   - [x] [OpenAI 实时语音API功能介绍（课件）](.Online-model/OpenAI-Realtime-API%20/OpenAI-Realtime-Function-Introduction.md)
   - [x] [10分钟搭建OpenAI Realtime实时语音对话机器人（视频）](https://www.bilibili.com/video/BV1NKCoYEEeh)
 
- - ### OpenAI Swarm @九天Hector
+- OpenAI Swarm @九天Hector
   - [x] [Swarm快速入门介绍（课件）](/Online-model/OpenAI-swarm/OpenAI-swarm-Quick-Start-Introduction.md)
   - [x] [Swarm速览（视频）](https://www.bilibili.com/video/BV1s22aYREm1)
   - [x] [Swarm多Agent架构快速实现（视频））](https://www.bilibili.com/video/BV1ro2eYRE29?p=2)
@@ -67,11 +67,15 @@
 
 ## 3、RAG
 
+
 ## 4、Agent
+
 
 ## 5、微调
 
+
 ## 6、热门项目
+
 
 ## 7、大模型项目实战
 
