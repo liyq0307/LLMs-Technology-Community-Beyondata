@@ -42,13 +42,27 @@
 
 ## 1、在线大模型
 - OpenAI Realtime API @九天Hector
-  - [x] [OpenAI 实时语音API发布介绍（课件）](./Online-model/OpenAI-Realtime-API/OpenAI-Realtime-Release-Introduction.md)
+  - [x] [OpenAI 实时语音API发布介绍（课件）](./Online-model/OpenAI-Realtime-API%20/OpenAI-Realtime-Release-Introduction.md)
   - [x] [OpenAI毫秒级实时语音Realtime API重磅上线（视频）](https://www.bilibili.com/video/BV1jpCoYqE4e)
-  - [x] [OpenAI 实时语音API功能介绍（课件）](./Online-model/OpenAI-Realtime-API/OpenAI-Realtime-Function-Introduction.md)
-  - [x] [- 10分钟搭建OpenAI Realtime实时语音对话机器人（视频）](https://www.bilibili.com/video/BV1NKCoYEEeh)
+  - [x] [OpenAI 实时语音API功能介绍（课件）](.Online-model/OpenAI-Realtime-API%20/OpenAI-Realtime-Function-Introduction.md)
+  - [x] [10分钟搭建OpenAI Realtime实时语音对话机器人（视频）](https://www.bilibili.com/video/BV1NKCoYEEeh)
+
+- OpenAI Swarm @九天Hector
+  - [x] [Swarm快速入门介绍（课件）](/Online-model/OpenAI-swarm/OpenAI-swarm-Quick-Start-Introduction.md)
+  - [x] [Swarm速览（视频）](https://www.bilibili.com/video/BV1s22aYREm1)
+  - [x] [Swarm多Agent架构快速实现（视频））](https://www.bilibili.com/video/BV1ro2eYRE29?p=2)
+  - [x] [Swarm与Agent类核心参数讲解（视频）](https://www.bilibili.com/video/BV1ro2eYRE29?p=3)
+  - [x] [Swarm多轮对话与流式输出方法实现（视频））](https://www.bilibili.com/video/BV1ro2eYRE29?p=4)
+  - [x] [Swarm instructions参数编写方法（视频）](https://www.bilibili.com/video/BV1ro2eYRE29?p=5)
+  - [x] [Swarm外部函数调用方法（上）（视频）](https://www.bilibili.com/video/BV1ro2eYRE29?p=6)
+  - [x] [Swarm外部函数调用方法（下）（视频）](https://www.bilibili.com/video/BV1ro2eYRE29?p=7)
+  - [x] [Swarm context variable高阶参数介绍（视频）](https://www.bilibili.com/video/BV1ro2eYRE29?p=8)
+  - [x] [【实战】智能客服系统实战（上）（视频）](https://www.bilibili.com/video/BV1ro2eYRE29?p=9)
+  - [x] [【实战】智能客服系统实战（下）（视频）](https://www.bilibili.com/video/BV1ro2eYRE29?p=10)
 
 
 ## 2、开源大模型
+- DeepSeek-v3 @九天Hector
 
 
 ## 3、RAG
