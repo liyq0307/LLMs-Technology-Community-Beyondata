@@ -92,7 +92,9 @@
 
 海量硬核独家技术干货内容+无门槛技术交流
 
-  <img src="./images/head-img1.png" >
+<div align=center>
+  <img src="./images/QRcode.png" >
+</div>
 
 上图扫码👆即刻入群！
 
