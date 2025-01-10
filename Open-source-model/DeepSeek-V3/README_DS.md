@@ -56,9 +56,9 @@
 
 #### 【DeepSeek v3基础入门】
 
-☑️ [DeepSeek v3的API 调用全流程](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
+☑️ [DeepSeek v3的API 调用全流程](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
 
-☑️ [DeepSeek v3 Function calling实现方法](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+☑️ [DeepSeek v3 Function calling实现方法](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
 
 ......
 
