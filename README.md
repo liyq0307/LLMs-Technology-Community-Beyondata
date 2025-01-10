@@ -4,9 +4,11 @@
 
 
 
-  - [🔥完整复现DeepSeek-V3模型训练全过程](Open-source-model/DeepSeek-V3/README_DS.md)
-  - [🌟GraphRAG从技术原理到应用实践详解](./RAG/GraphRAGv0.5.0/GraphRAG%2BOllama运行本地大模型/GraphRAG%2BOllama运行本地大模型.md)
-  - [🌟MateGen：全球首款Jupyter智能引擎](./Agent/MateGen：新一代交互式智能编程助手/MateGen：新一代交互式智能编程助手.md)
+   [🔥完整复现DeepSeek-V3模型训练全过程](Open-source-model/DeepSeek-V3/README_DS.md)
+
+   [🌟GraphRAG从技术原理到应用实践详解](./RAG/GraphRAGv0.5.0/GraphRAG%2BOllama运行本地大模型/GraphRAG%2BOllama运行本地大模型.md)
+
+   [🌟MateGen：全球首款Jupyter智能引擎](./Agent/MateGen：新一代交互式智能编程助手/MateGen：新一代交互式智能编程助手.md)
 
 </div>
 
