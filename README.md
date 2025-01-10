@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="./images/head-img.png" >
+  <img src="./images/head-img1.png" >
   <h1>近期更新</h1>
 </div>
 
@@ -158,7 +158,14 @@
 
 ## 2、开源大模型
 - DeepSeek-v3 @九天Hector
-
+  - [x] [DeepSeek v3的API 调用全流程(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
+  - [x] [DeepSeek v3 Function calling实现方法(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+  - [x] [DeepSeek v3基于Open-WebUI打造专属聊天机器人(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
+  - [x] [DeepSeek v3借助Swarm搭建多代理智能体(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+  - [x] [DeepSeek v3借助GraphRAG搭建知识库问答机器人(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+  - [x] [DeepSeek v3分词器训练(课件)](./Open-source-model/DeepSeek-V3/6.MiniDeepSeek分词器训练流程.md)
+  - [x] [DeepSeek v3预训练(课件)](./Open-source-model/DeepSeek-V3/7.MiniDeepSeek预训练.md)
+  - [x] [DeepSeek v3后训练(课件)](./Open-source-model/DeepSeek-V3/8.MiniDeepSeek后训练.md)
 
 - Phi-4 14B @九天Hector
   - [x] [合成数据训练最强开源大模型Phi-4介绍，快速部署与调用指南（视频）](https://www.bilibili.com/video/BV1k4kfYmEi9)
