@@ -1,13 +1,14 @@
 <div align=center>
   <img src="./images/head-img1.png" >
   <h1>近期更新</h1>
+
+
+
+  - [🔥完整复现DeepSeek-V3模型训练全过程](Open-source-model/DeepSeek-V3/README_DS.md)
+  - [🌟GraphRAG从技术原理到应用实践详解](./RAG/GraphRAGv0.5.0/GraphRAG%2BOllama运行本地大模型/GraphRAG%2BOllama运行本地大模型.md)
+  - [🌟MateGen：全球首款Jupyter智能引擎](./Agent/MateGen：新一代交互式智能编程助手/MateGen：新一代交互式智能编程助手.md)
+
 </div>
-
-
-  - [1、完整复现DeepSeek-V3模型训练全过程]()
-  - [2、GraphRAG从技术原理到应用实践详解](./RAG/GraphRAGv0.5.0/GraphRAG%2BOllama运行本地大模型/GraphRAG%2BOllama运行本地大模型.md)
-  - [3、MateGen：全球首款Jupyter智能引擎](./Agent/MateGen：新一代交互式智能编程助手/MateGen：新一代交互式智能编程助手.md)
-
 
 <div align=center>
   <h1>赋范大模型学习社区使用指南</h1>
