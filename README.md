@@ -49,24 +49,24 @@
 - DeepSeek v3 入门介绍 @九天Hector
   - [x] [DeepSeek v3模型介绍（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=2)
   - [x] [DeepSeek v3开源情况介绍（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=3)
-  - ⭐️ [DeepSeek v3的API 调用全流程(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
+  - [x] [DeepSeek v3的API 调用全流程(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
   - [x] [DeepSeek API-Key获取与模型调用方法详解（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=4)
   - [x] [DeepSeek v3模型参数详解（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=5)
   - [x] [搭建DeepSeek v3多轮对话机器人（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=6)
-  - ⭐️ [DeepSeek v3 Function calling实现方法(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+  - [x] [DeepSeek v3 Function calling实现方法(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
   - [x] [DeepSeek v3 Function calling功能介绍（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=7)
   - [x] [DeepSeek v3 完整Function calling执行流程（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=8)
-  - ⭐️ [DeepSeek v3基于Open-WebUI打造专属聊天机器人(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
+  - [x] [DeepSeek v3基于Open-WebUI打造专属聊天机器人(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
   - [x] [DeepSeek v3+Open WebUI搭建专属聊天机器人（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=9)
 
 
 - DeepSeek v3 本地部署 @九天Hector
-  - ⭐️ [DeepSeek v3本地部署流程（课件）](./Open-source-model/DeepSeek-V3/9.DeepSeek%20v3本地部署流程.md)
+  - [x] [DeepSeek v3本地部署流程（课件）](./Open-source-model/DeepSeek-V3/9.DeepSeek%20v3本地部署流程.md)
   - [x] [DeepSeek v3本地部署与transformer库调用流程（视频）](https://www.bilibili.com/video/BV1jjwVe4EKn/?p=3)
   - [x] [DeepSeek v3+SGLang、LMDeploy和vLLM部署与调用流程（视频）](https://www.bilibili.com/video/BV1jjwVe4EKn/?p=4)
 
 - DeepSeek v3 智能体开发 @九天Hector
-  - ⭐️ [DeepSeek v3借助Swarm搭建多代理智能体(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+  - [x] [DeepSeek v3借助Swarm搭建多代理智能体(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
   - [x] [DeepSeek v3借助Swaem搭建Multi-Agent技术入门实战（视频）](https://www.bilibili.com/video/BV1T8czeSEf1)
   - [x] [DeepSeek v3接入Swarm代码实现（视频）](https://www.bilibili.com/video/BV1T8czeSEf1/?p=3)
   - [x] [Swarm核心功能与使用流程介绍（视频）](https://www.bilibili.com/video/BV1T8czeSEf1/?p=4)
@@ -74,7 +74,7 @@
   - [x] [【实战】DeepSeek v3搭建多智能体客服系统（视频）](https://www.bilibili.com/video/BV1T8czeSEf1/?p=6)
 
 - DeepSeek v3 + GraphRAG 实战 @九天Hector
-  - ⭐️ [DeepSeek v3借助GraphRAG搭建知识库问答机器人(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+  - [x] [DeepSeek v3借助GraphRAG搭建知识库问答机器人(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
   - [x] [DeepSeek v3+GraphRAG知识谱图检索增强技术实战（视频）](https://www.bilibili.com/video/BV1Xwc6eoEW5)
   - [x] [DeepSeek v3接入GraphRAG流程（视频）](https://www.bilibili.com/video/BV1Xwc6eoEW5/?p=4)
   - [x] [DeepSeek v3+GraphRAG检索与查询过程（视频）](https://www.bilibili.com/video/BV1Xwc6eoEW5/?p=5)
@@ -82,12 +82,12 @@
 - DeepSeek v3 模型训练 @九天Hector
   - [x] [DeepSeek v3模型GitHub开源情况介绍（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=3)
   - [x] [DeepSeek v3技术报告快速解读（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=4)
-  - ⭐️ [DeepSeek v3分词器训练(课件)](./Open-source-model/DeepSeek-V3/6.MiniDeepSeek分词器训练流程.md)
+  - [x] [DeepSeek v3分词器训练(课件)](./Open-source-model/DeepSeek-V3/6.MiniDeepSeek分词器训练流程.md)
   - [x] [训练环境部署与分词器训练过程（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=5)
-  - ⭐️ [DeepSeek v3预训练(课件)](./Open-source-model/DeepSeek-V3/7.MiniDeepSeek预训练.md)
+  - [x] [DeepSeek v3预训练(课件)](./Open-source-model/DeepSeek-V3/7.MiniDeepSeek预训练.md)
   - [x] [MiniDeepSeek v3架构设计（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=6)
   - [x] [Mini DeepSeek v3预训练过程（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=7)
-  - ⭐️ [DeepSeek v3后训练(课件)](./Open-source-model/DeepSeek-V3/8.MiniDeepSeek后训练.md)
+  - [x] [DeepSeek v3后训练(课件)](./Open-source-model/DeepSeek-V3/8.MiniDeepSeek后训练.md)
   - [x] [Mini DeepSeek v3全量指令微调流程（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=8)
   - [x] [指令微调后模型对话性能测试（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=9)
   - [x] [DPO强化学习微调与对话效果测试（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=10)
