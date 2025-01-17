@@ -39,7 +39,7 @@
 
 &emsp;&emsp;正是基于**让开发者们能够快速拥抱大模型蓝海市场**的愿景，[@九天Hector](https://space.bilibili.com/385842994) 老师团队，在DeepSeek v3开源的第一时间，就开始了紧锣密鼓的研发工作，历时两周，深扒文献、攻克技术难点、痛击底层原理——
 
-&emsp;&emsp;终于！！从原理框架到训练微调一站式速通，**完整复现了DeepSeek v3训练全过程**，并已经训练出来了一个mini版本的DeepSeek v3模型，你可以点击👇放链接查看完整训练过程记录！（温馨提示：扫描社区主页二维码，还可获取老师完整讲解视频哦，配合食用效果更佳！！）
+&emsp;&emsp;终于！！从原理框架到训练微调一站式速通，**完整复现了DeepSeek v3训练全过程**，并已经训练出来了一个mini版本的DeepSeek v3模型，你可以点击👇放链接查看完整训练过程记录！（温馨提示：课件+老师讲解视频，配合食用效果更佳！！）
 
 #### 【从零手动复现DeepSeek v3】
 ☑️ [DeepSeek v3分词器训练](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-V3/6.MiniDeepSeek分词器训练流程.md)：详细介绍了分词器的训练流程，从数据准备、分词器初始化、训练、保存到评估，完整展示了如何为一个大模型训练一个高效的分词器。分词器的训练是大模型训练的基础步骤，合理的分词策略能够显著提升模型的性能。
@@ -48,11 +48,13 @@
 
 ☑️ [DeepSeek v3后训练](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-V3/8.MiniDeepSeek后训练.md)：详细介绍了全量指令微调和DPO强化学习微调全过程，这是大模型后训练中的关键技术，能够显著提升模型在特定任务上的表现，到这里我们的小型DeepSeek v3大模型训练就基本完成了，老师还进行了前端部署教程，用户可以直接与模型进行交互，验证其在实际应用中的效果！
 
->如果你想获取完整代码以及模型权重等等，一切准备完毕后，稍后我们也会在github上传！欢迎先加入我们的赋范大模型技术社区，会在第一时间进行通知～
+🔥 [【全网独家】手动复现Mini DeepSeek v3！模型预训练+全量指令微调+DPO强化学习微调全流程实战（合集）](https://www.bilibili.com/video/BV1KtwueYE54)
+
+>欢迎加入「赋范大模型技术社区」，扫描文章底部二维码入群，即可获取完整代码、数据以及模型权重等完整公开课资料～
 
 </div>
 
-&emsp;&emsp;当然不仅于此，相较于大模型训练原理开发，我们还结合当下最新的框架和最前沿的技术，做出了**一系列的Agent智能体开发项目**，同时已经制作成完整的教程文件，为你接轨大模型领域，提供最坚实的技术支持！赶紧点击下方👇链接查看吧（依旧是扫描社区主页二维码，可以获取老师的完整讲解视频哦～）
+&emsp;&emsp;当然不仅于此，相较于大模型训练原理开发，我们还结合当下最新的框架和最前沿的技术，做出了**一系列的Agent智能体开发项目**，同时已经制作成完整的教程文件，为你接轨大模型领域，提供最坚实的技术支持！赶紧点击下方👇链接查看吧
 
 #### 【DeepSeek v3基础入门】
 
@@ -60,15 +62,31 @@
 
 ☑️ [DeepSeek v3 Function calling实现方法](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
 
+💎 [DeepSeek-v3调用指南与Function calling技术实战（视频）](https://www.bilibili.com/video/BV1JuwVewELc)
+
+......
+
+#### 【DeepSeek v3本地部署】
+
+☑️ [DeepSeek v3本地部署流程](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-V3/9.DeepSeek%20v3%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E6%B5%81%E7%A8%8B.md)
+
+💎 [DeepSeek v3本地部署与调用实战｜vLLM、SGLang、LMDeploy（视频）](https://www.bilibili.com/video/BV1jjwVe4EKn)
+
 ......
 
 #### 【DeepSeek v3智能体开发】
 
 ☑️ [DeepSeek v3基于Open-WebUI打造专属聊天机器人](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-V3/3.打造专属聊天机器人：Open-WebUI接入DeepSeek%20v3流程详解.md)
 
+💎 [DeepSeek v3+Open WebUI搭建专属聊天机器人（视频）](https://www.bilibili.com/video/BV1JuwVewELc)
+
 ☑️ [DeepSeek v3借助Swarm搭建多代理智能体](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-V3/4.DeepSeek智能体开发实战.md)
 
+💎 [DeepSeek v3+OpenAI Swarm的Multi-Agent技术入门实战（视频）](https://www.bilibili.com/video/BV1T8czeSEf1)
+
 ☑️ [DeepSeek v3借助GraphRAG搭建知识库问答机器人](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-V3/5.DeepSeek知识库问答实战.md)
+
+💎 [DeepSeek v3+GraphRAG知识图谱检索增强技术实战（视频）](https://www.bilibili.com/video/BV1Xwc6eoEW5)
 
 ......
 
@@ -78,7 +96,7 @@
 
 &emsp;&emsp;站在25年的开端回望，不管是OpenAI o3的诞生，还是DeepSeek v3的发布，大模型技术正在以惊人的速度重塑世界，正在以前所未有的方式改变着人类文明的进程！每一天，我们都在见证技术奇迹的发生，都在参与这场改变人类命运的技术革命。
 
-&emsp;&emsp;这也许是“最好的时代”，但也是“最坏的时代”，技术的快速迭代意味着我们从业者面临着巨大的压力，新技术层出不穷，知识的半衰期正在急剧缩短，持续学习不再说一种选择，或许更是一种生存必需！
+&emsp;&emsp;这也许是“最好的时代”，但也是“最坏的时代”，技术的快速迭代意味着我们从业者面临着巨大的压力，新技术层出不穷，知识的半衰期正在急剧缩短，持续学习不再是一种选择，或许更是一种生存必需！
 
 &emsp;&emsp; 我们正是切身感受到了这种压力，才深知：只有不断的更新知识体系，才能为学员提供最有价值的技术赋能。每一次课程的更新，每一个项目的设计，都是我们对技术前沿的追赶，对每一位技术人负责的教育初心坚守！
 

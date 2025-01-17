@@ -45,7 +45,152 @@
 
 &emsp;&emsp;[@九天Hector真人讲解最新大模型技术栈梳理！](https://bilibili.com/video/BV1sR2mYeECv)玩转开源&在线大模型！微调、RAG、Agent开发全进阶技术详解！
 
-## 1、在线大模型
+## 1、开源大模型
+- DeepSeek v3 入门介绍 @九天Hector
+  - [x] [DeepSeek v3模型介绍（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=2)
+  - [x] [DeepSeek v3开源情况介绍（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=3)
+  - ⭐️ [DeepSeek v3的API 调用全流程(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
+  - [x] [DeepSeek API-Key获取与模型调用方法详解（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=4)
+  - [x] [DeepSeek v3模型参数详解（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=5)
+  - [x] [搭建DeepSeek v3多轮对话机器人（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=6)
+  - ⭐️ [DeepSeek v3 Function calling实现方法(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+  - [x] [DeepSeek v3 Function calling功能介绍（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=7)
+  - [x] [DeepSeek v3 完整Function calling执行流程（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=8)
+  - ⭐️ [DeepSeek v3基于Open-WebUI打造专属聊天机器人(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
+  - [x] [DeepSeek v3+Open WebUI搭建专属聊天机器人（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=9)
+
+
+- DeepSeek v3 本地部署 @九天Hector
+  - ⭐️ [DeepSeek v3本地部署流程（课件）](./Open-source-model/DeepSeek-V3/9.DeepSeek%20v3本地部署流程.md)
+  - [x] [DeepSeek v3本地部署与transformer库调用流程（视频）](https://www.bilibili.com/video/BV1jjwVe4EKn/?p=3)
+  - [x] [DeepSeek v3+SGLang、LMDeploy和vLLM部署与调用流程（视频）](https://www.bilibili.com/video/BV1jjwVe4EKn/?p=4)
+
+- DeepSeek v3 智能体开发 @九天Hector
+  - ⭐️ [DeepSeek v3借助Swarm搭建多代理智能体(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+  - [x] [DeepSeek v3借助Swaem搭建Multi-Agent技术入门实战（视频）](https://www.bilibili.com/video/BV1T8czeSEf1)
+  - [x] [DeepSeek v3接入Swarm代码实现（视频）](https://www.bilibili.com/video/BV1T8czeSEf1/?p=3)
+  - [x] [Swarm核心功能与使用流程介绍（视频）](https://www.bilibili.com/video/BV1T8czeSEf1/?p=4)
+  - [x] [调用外部工具与Multi-Agent实现流程（视频）](https://www.bilibili.com/video/BV1T8czeSEf1/?p=5)  
+  - [x] [【实战】DeepSeek v3搭建多智能体客服系统（视频）](https://www.bilibili.com/video/BV1T8czeSEf1/?p=6)
+
+- DeepSeek v3 + GraphRAG 实战 @九天Hector
+  - ⭐️ [DeepSeek v3借助GraphRAG搭建知识库问答机器人(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
+  - [x] [DeepSeek v3+GraphRAG知识谱图检索增强技术实战（视频）](https://www.bilibili.com/video/BV1Xwc6eoEW5)
+  - [x] [DeepSeek v3接入GraphRAG流程（视频）](https://www.bilibili.com/video/BV1Xwc6eoEW5/?p=4)
+  - [x] [DeepSeek v3+GraphRAG检索与查询过程（视频）](https://www.bilibili.com/video/BV1Xwc6eoEW5/?p=5)
+
+- DeepSeek v3 模型训练 @九天Hector
+  - [x] [DeepSeek v3模型GitHub开源情况介绍（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=3)
+  - [x] [DeepSeek v3技术报告快速解读（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=4)
+  - ⭐️ [DeepSeek v3分词器训练(课件)](./Open-source-model/DeepSeek-V3/6.MiniDeepSeek分词器训练流程.md)
+  - [x] [训练环境部署与分词器训练过程（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=5)
+  - ⭐️ [DeepSeek v3预训练(课件)](./Open-source-model/DeepSeek-V3/7.MiniDeepSeek预训练.md)
+  - [x] [MiniDeepSeek v3架构设计（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=6)
+  - [x] [Mini DeepSeek v3预训练过程（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=7)
+  - ⭐️ [DeepSeek v3后训练(课件)](./Open-source-model/DeepSeek-V3/8.MiniDeepSeek后训练.md)
+  - [x] [Mini DeepSeek v3全量指令微调流程（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=8)
+  - [x] [指令微调后模型对话性能测试（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=9)
+  - [x] [DPO强化学习微调与对话效果测试（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=10)
+  - [x] [搭建Web前端执行Mini DeepSeek（视频）](https://www.bilibili.com/video/BV1KtwueYE54/?p=11)
+
+- Phi-4 14B @九天Hector
+  - [x] [合成数据训练最强开源大模型Phi-4介绍，快速部署与调用指南（视频）](https://www.bilibili.com/video/BV1k4kfYmEi9)
+
+- LLAMA.CPP @建元Aris
+  - [x] [LlAMA.CPP开源推理框架使用指南（课件）](./Open-source-model/LlAMA-CPP/LlAMA.CPP开源推理框架使用指南.md)
+  - [x] [开源量化推理框架使用指南（上）：以量化Qwen2.5为例实现模型启动与API调用（视频）](https://www.bilibili.com/video/BV1FS63Y6ESG)
+
+- Qwen-QVQ @建元Aris
+  - [x] [QvQ视觉推理大模型快速入门（课件）](./Open-source-model/Qwen-QvQ/QvQ视觉推理大模型快速入门.md)
+  - [x] [Qwen-QVQ：多模态推理大模型安装部署与调用指南（视频）](https://www.bilibili.com/video/BV1e1CYYYEoo)
+
+- Qwen2VL @建元Aris
+  - [x] [多模态大模型Qwen2VL安装部署与调用教程（课件）](./Open-source-model/Qwen2VL/多模态大模型Qwen2VL安装部署与调用教程.md)
+  - [x] [Qwen2VL：多模态大模型安装部署与调用指南（视频）](https://www.bilibili.com/video/BV1e1CYYYEoo)
+
+- Qwen-QWQ @建元Aris
+  - [x] [[Qwen-QWQ:32B]本地部署完整流程（课件）](./Open-source-model/Qwen-QWQ/Qwen-QWQ团队开源推理大模型.md)
+  - [x] [Qwen-QWQ 8小时极速测评|Ollama快速调用（视频）](https://www.bilibili.com/video/BV1HXz8Y4EGU)
+  - [x] [Cursor调用QWQ实现辅助编程（课件）](./Open-source-model/QWQ接入Cursor/QWQ接入Cursor实现辅助编程.md)
+  - [x] [Cursor本地调用QWQ实现代码辅助开发（视频）](https://www.bilibili.com/video/BV1xLC6YTEHP)
+  - [x] [Cursor调用QWQ线上API实现代码辅助开发（视频）](https://www.bilibili.com/video/BV1buC6Y3ETk)
+
+- Qwen2.5-Coder @建元Aris
+  - [x] [Qwen2.5-Coder安装部署（课件）](./Open-source-model/Qwen2.5-Coder/Qwen2.5-Coder系列模型.md)
+  - [x] [Qwen2.5-Coder参数详解（视频）](https://www.bilibili.com/video/BV1fNULYvEbW)
+  - [x] [Qwen2.5-Coder：32B本地部署（视频）](https://www.bilibili.com/video/BV1a5mDYpEh6)
+  - [x] [Qwen2.5-Coder接入Cusor（视频）](https://www.bilibili.com/video/BV1K4mDY5EuS)
+
+- Qwen2.5 @建元Aris
+  - [x] [Qwen2.5介绍与部署流程（课件）](./Open-source-model/Qwen2.5/Qwen2.5介绍与部署流程.md)
+  - [x] [Qwen2.5参数全解与线上demo体验（视频）](https://www.bilibili.com/video/BV18Ji2YVEcA)
+  - [x] [Qwen2.5基于ModelScope云平台完成本地部署（视频）](https://www.bilibili.com/video/BV16DiXYjEES)
+  - [x] [Qwen2.5基于ModelScope云平台完成线上部署（视频）](https://www.bilibili.com/video/BV1rZiiYiEtT)
+  - [x] [Qwen2.5借助Ollama完成部署（视频）](https://www.bilibili.com/video/BV1koiiYTEHs)
+  - [x] [Qwen2.5在Windows环境下借助Ollama完成本地部署（视频）](https://www.bilibili.com/video/BV131qAY8EZd)
+  - [x] [Qwen2.5使用vLLM框架实现本地部署（视频）](https://www.bilibili.com/video/BV1G1qAY8EPF)
+
+- Qwen2 @九天Hector
+  - [x] [Qwen2模型深度介绍（视频）](https://www.bilibili.com/video/BV1rS411P75Q)
+
+- Qwen1.5 @木羽Cheney
+  - [x] [Qwen1.5系列模型介绍及使用方法（课件）](./Open-source-model/Qwen1.5/Qwen1.5系列模型介绍及使用方法.md)
+  - [x] [Qwen1.5快速部署指南（视频）](https://www.bilibili.com/video/BV1TT42117gH)
+  - [x] [LangChain使用Ollama接入本地化部署（课件）](./Open-source-model/LangChain使用Ollama接入Qwen1.5/LangChain使用Ollama接入本地化部署的开源大模型.md)
+  - [x] [Ollama项目介绍&本地安装（视频）](https://www.bilibili.com/video/BV1fE421K75y)
+  - [x] [Qwen1.5+Ollama本地私有化部署（视频）](https://www.bilibili.com/video/BV18t421A7Q9)
+
+- Qwen @木羽Cheney
+  - [x] [Ubuntu22.04系统Qwen-Chat-7B部署文档（课件）](./Open-source-model/Ubuntu22.04系统Qwen部署/Ubuntu22.04系统Qwen%20Chat%207B部署文档.md)
+  - [x] [Qwen开源大模型的权重下载方法（视频）](https://www.bilibili.com/video/BV1AF4m1K75v)
+  - [x] [Qwen模型的批量推理与推理加速（课件）](./Open-source-model/Qwen推理加速/Qwen模型的批量推理与推理加速.md)
+  - [x] [Qwen大模型推理加速框架（视频）](https://www.bilibili.com/video/BV131421Z7WA)
+  - [x] [Transformers库配置大模型开发环境（课件）](./Open-source-model/Transformers库配置大模型开发环境/Transformers库的使用及配置大模型开发环境.md)
+  - [x] [Qwen大模型+Jupyter应用开发（视频）](https://www.bilibili.com/video/BV1Sp421Q7vi)
+  - [x] [Qwen大模型接入vLLM框架（课件）](./Open-source-model/Transformers库配置大模型开发环境/Transformers库的使用及配置大模型开发环境.md)
+  - [x] [Qwen大模型接入vLLM框架（视频）](https://www.bilibili.com/video/BV1Ap421R73A)
+  - [x] [QwenAPI调用开发实践（课件）](./Open-source-model/Qwen-API调用开发/Qwen模型API调用开发实践.md)
+  - [x] [Qwen+ReAct构建AI Agent（视频）](https://www.bilibili.com/video/BV1Sp421Q7vi)
+  - [x] [Qwen API工具调用（视频）](https://www.bilibili.com/video/BV1pm411U7Fs)
+  - [x] [Qwen模型查询实时数据功能（视频）](https://www.bilibili.com/video/BV1wE421K7u7)
+
+- Llama3 @九天Hector
+  - [x] [Llama3本地部署与微调入门（课件）](./Open-source-model/Llama3部署与微调/Llama3本地部署与微调入门.md)
+  - [x] [Llama3性能评测与调用方法（视频）](https://www.bilibili.com/video/BV1mT42127Z4)
+  - [x] [Llama3算力获取（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=1)
+  - [x] [Llama3本地部署与运行流程（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=2)
+  - [x] [Llama3 ollama部署流程（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=3)
+  - [x] [微调框架Llama-Factory项目介绍（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=4)
+  - [x] [Llama3中文能力微调（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=5)
+
+- LLaMA3架构全解与代码复现 @菜菜TsaiTsai
+  - [x] [LLaMA原理精讲与架构复现（课件）](./Open-source-model/LLaMA3架构全解与代码复现/LLaMA原理精讲与架构复现.md)
+  - [x] [LLaMA整体架构与Embeddings（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=1)
+  - [x] [RMSNorm均方根层归一化（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=2)
+  - [x] [极速版旋转位置编码讲解（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=3)
+  - [x] [LlaMA架构中的注意力机制（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=4)
+  - [x] [LlaMA架构的完整复现（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=5)
+
+- ChatGLM3 @九天Hector
+  - [x] [ChatGLM3重磅上线（视频）](https://www.bilibili.com/video/BV1Hc411q76k)
+  - [x] [ChatGLM3模型性能（视频）](https://www.bilibili.com/video/BV14N4y1674J)
+  - [x] [ChatGLM3多角色对话功能（视频）](https://www.bilibili.com/video/BV1fg4y197xM)
+  - [x] [ChatGLM3 Function calling功能（视频）](https://www.bilibili.com/video/BV1K94y157gd)
+  - [x] [ChatGLM3全新消息队列构建方法及模型性能评测（课件）](./Open-source-model/ChatGLM3性能测评/ChatGLM3全新消息队列构建方法及模型性能评测.md)
+  - [x] [ChatGLM3推理性能评测（视频）](https://www.bilibili.com/video/BV1BG411X7Hk)
+  - [x] [ChatGLM3-6B零基础部署与使用指南（课件）](./Open-source-model/ChatGLM3-6B部署/ChatGLM3-6B零基础部署与使用指南.md)
+  - [x] [ChatGLM3安装部署（上）（视频）](https://www.bilibili.com/video/BV1gN4y1r7RX)
+  - [x] [ChatGLM3安装部署（下）（视频）](https://www.bilibili.com/video/BV18M411Q7Pp)
+  - [x] [ChatGLM3 Function calling功能介绍与Agent实战（课件）](./Open-source-model/ChatGLM3%2BFunction%2Bcalling/ChatGLM3%20Function%20calling功能介绍与Agent实战.md)
+  - [x] [ChatGLM3工具调用实战（视频）](https://www.bilibili.com/video/BV1V84y1971r)
+  - [x] [ChatGLM3 Agent开发实战（视频）](https://www.bilibili.com/video/BV1Wy4y1c7oA)
+
+- Baichuan2 @木羽Cheney
+  - [x] [BaiChuan 2 大模型生态介绍及本地私有化部署方案（课件）](./Open-source-model/BaiChuan2/BaiChuan2%20大模型生态介绍及本地私有化部署方案.md)
+  - [x] [Baichuan2体系介绍与私有化部署（视频）](https://www.bilibili.com/video/BV15142197ph)
+
+
+## 2、在线大模型
 - OpenAI Realtime API @九天Hector
   - [x] [OpenAI 实时语音API发布介绍（课件）](./Online-model/OpenAI-Realtime-API%20/OpenAI实时语音API发布介绍.md)
   - [x] [OpenAI毫秒级实时语音Realtime API重磅上线（视频）](https://www.bilibili.com/video/BV1jpCoYqE4e)
@@ -158,113 +303,6 @@
   - [x] [Gemini API功能介绍与体验报告（视频）](https://www.bilibili.com/video/BV19w411t7bC)
   - [x] [Gemini API获取与本地调用方法（视频）](https://www.bilibili.com/video/BV1M94y1A77t)
   - [x] [【进阶】借助谷歌云Vertex调用Gemini API（视频）](https://www.bilibili.com/video/BV1qc41127dK)
-
-## 2、开源大模型
-- DeepSeek-v3 @九天Hector
-  - [x] [DeepSeek v3的API 调用全流程(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
-  - [x] [DeepSeek v3 Function calling实现方法(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
-  - [x] [DeepSeek v3基于Open-WebUI打造专属聊天机器人(课件)](./Open-source-model/DeepSeek-V3/1.DeepSeek%20v3%20API接入指南.md)
-  - [x] [DeepSeek v3借助Swarm搭建多代理智能体(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
-  - [x] [DeepSeek v3借助GraphRAG搭建知识库问答机器人(课件)](./Open-source-model/DeepSeek-V3/2.DeepSeek%20v3%20Function%20calling实现方法.md)
-  - [x] [DeepSeek v3分词器训练(课件)](./Open-source-model/DeepSeek-V3/6.MiniDeepSeek分词器训练流程.md)
-  - [x] [DeepSeek v3预训练(课件)](./Open-source-model/DeepSeek-V3/7.MiniDeepSeek预训练.md)
-  - [x] [DeepSeek v3后训练(课件)](./Open-source-model/DeepSeek-V3/8.MiniDeepSeek后训练.md)
-
-- Phi-4 14B @九天Hector
-  - [x] [合成数据训练最强开源大模型Phi-4介绍，快速部署与调用指南（视频）](https://www.bilibili.com/video/BV1k4kfYmEi9)
-
-- LLAMA.CPP @建元Aris
-  - [x] [LlAMA.CPP开源推理框架使用指南（课件）](./Open-source-model/LlAMA-CPP/LlAMA.CPP开源推理框架使用指南.md)
-  - [x] [开源量化推理框架使用指南（上）：以量化Qwen2.5为例实现模型启动与API调用（视频）](https://www.bilibili.com/video/BV1FS63Y6ESG)
-
-- Qwen-QVQ @建元Aris
-  - [x] [QvQ视觉推理大模型快速入门（课件）](./Open-source-model/Qwen-QvQ/QvQ视觉推理大模型快速入门.md)
-  - [x] [Qwen-QVQ：多模态推理大模型安装部署与调用指南（视频）](https://www.bilibili.com/video/BV1e1CYYYEoo)
-
-- Qwen2VL @建元Aris
-  - [x] [多模态大模型Qwen2VL安装部署与调用教程（课件）](./Open-source-model/Qwen2VL/多模态大模型Qwen2VL安装部署与调用教程.md)
-  - [x] [Qwen2VL：多模态大模型安装部署与调用指南（视频）](https://www.bilibili.com/video/BV1e1CYYYEoo)
-
-- Qwen-QWQ @建元Aris
-  - [x] [[Qwen-QWQ:32B]本地部署完整流程（课件）](./Open-source-model/Qwen-QWQ/Qwen-QWQ团队开源推理大模型.md)
-  - [x] [Qwen-QWQ 8小时极速测评|Ollama快速调用（视频）](https://www.bilibili.com/video/BV1HXz8Y4EGU)
-  - [x] [Cursor调用QWQ实现辅助编程（课件）](./Open-source-model/QWQ接入Cursor/QWQ接入Cursor实现辅助编程.md)
-  - [x] [Cursor本地调用QWQ实现代码辅助开发（视频）](https://www.bilibili.com/video/BV1xLC6YTEHP)
-  - [x] [Cursor调用QWQ线上API实现代码辅助开发（视频）](https://www.bilibili.com/video/BV1buC6Y3ETk)
-
-- Qwen2.5-Coder @建元Aris
-  - [x] [Qwen2.5-Coder安装部署（课件）](./Open-source-model/Qwen2.5-Coder/Qwen2.5-Coder系列模型.md)
-  - [x] [Qwen2.5-Coder参数详解（视频）](https://www.bilibili.com/video/BV1fNULYvEbW)
-  - [x] [Qwen2.5-Coder：32B本地部署（视频）](https://www.bilibili.com/video/BV1a5mDYpEh6)
-  - [x] [Qwen2.5-Coder接入Cusor（视频）](https://www.bilibili.com/video/BV1K4mDY5EuS)
-
-- Qwen2.5 @建元Aris
-  - [x] [Qwen2.5介绍与部署流程（课件）](./Open-source-model/Qwen2.5/Qwen2.5介绍与部署流程.md)
-  - [x] [Qwen2.5参数全解与线上demo体验（视频）](https://www.bilibili.com/video/BV18Ji2YVEcA)
-  - [x] [Qwen2.5基于ModelScope云平台完成本地部署（视频）](https://www.bilibili.com/video/BV16DiXYjEES)
-  - [x] [Qwen2.5基于ModelScope云平台完成线上部署（视频）](https://www.bilibili.com/video/BV1rZiiYiEtT)
-  - [x] [Qwen2.5借助Ollama完成部署（视频）](https://www.bilibili.com/video/BV1koiiYTEHs)
-  - [x] [Qwen2.5在Windows环境下借助Ollama完成本地部署（视频）](https://www.bilibili.com/video/BV131qAY8EZd)
-  - [x] [Qwen2.5使用vLLM框架实现本地部署（视频）](https://www.bilibili.com/video/BV1G1qAY8EPF)
-
-- Qwen2 @九天Hector
-  - [x] [Qwen2模型深度介绍（视频）](https://www.bilibili.com/video/BV1rS411P75Q)
-
-- Qwen1.5 @木羽Cheney
-  - [x] [Qwen1.5系列模型介绍及使用方法（课件）](./Open-source-model/Qwen1.5/Qwen1.5系列模型介绍及使用方法.md)
-  - [x] [Qwen1.5快速部署指南（视频）](https://www.bilibili.com/video/BV1TT42117gH)
-  - [x] [LangChain使用Ollama接入本地化部署（课件）](./Open-source-model/LangChain使用Ollama接入Qwen1.5/LangChain使用Ollama接入本地化部署的开源大模型.md)
-  - [x] [Ollama项目介绍&本地安装（视频）](https://www.bilibili.com/video/BV1fE421K75y)
-  - [x] [Qwen1.5+Ollama本地私有化部署（视频）](https://www.bilibili.com/video/BV18t421A7Q9)
-
-- Qwen @木羽Cheney
-  - [x] [Ubuntu22.04系统Qwen-Chat-7B部署文档（课件）](./Open-source-model/Ubuntu22.04系统Qwen部署/Ubuntu22.04系统Qwen%20Chat%207B部署文档.md)
-  - [x] [Qwen开源大模型的权重下载方法（视频）](https://www.bilibili.com/video/BV1AF4m1K75v)
-  - [x] [Qwen模型的批量推理与推理加速（课件）](./Open-source-model/Qwen推理加速/Qwen模型的批量推理与推理加速.md)
-  - [x] [Qwen大模型推理加速框架（视频）](https://www.bilibili.com/video/BV131421Z7WA)
-  - [x] [Transformers库配置大模型开发环境（课件）](./Open-source-model/Transformers库配置大模型开发环境/Transformers库的使用及配置大模型开发环境.md)
-  - [x] [Qwen大模型+Jupyter应用开发（视频）](https://www.bilibili.com/video/BV1Sp421Q7vi)
-  - [x] [Qwen大模型接入vLLM框架（课件）](./Open-source-model/Transformers库配置大模型开发环境/Transformers库的使用及配置大模型开发环境.md)
-  - [x] [Qwen大模型接入vLLM框架（视频）](https://www.bilibili.com/video/BV1Ap421R73A)
-  - [x] [QwenAPI调用开发实践（课件）](./Open-source-model/Qwen-API调用开发/Qwen模型API调用开发实践.md)
-  - [x] [Qwen+ReAct构建AI Agent（视频）](https://www.bilibili.com/video/BV1Sp421Q7vi)
-  - [x] [Qwen API工具调用（视频）](https://www.bilibili.com/video/BV1pm411U7Fs)
-  - [x] [Qwen模型查询实时数据功能（视频）](https://www.bilibili.com/video/BV1wE421K7u7)
-
-- Llama3 @九天Hector
-  - [x] [Llama3本地部署与微调入门（课件）](./Open-source-model/Llama3部署与微调/Llama3本地部署与微调入门.md)
-  - [x] [Llama3性能评测与调用方法（视频）](https://www.bilibili.com/video/BV1mT42127Z4)
-  - [x] [Llama3算力获取（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=1)
-  - [x] [Llama3本地部署与运行流程（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=2)
-  - [x] [Llama3 ollama部署流程（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=3)
-  - [x] [微调框架Llama-Factory项目介绍（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=4)
-  - [x] [Llama3中文能力微调（视频）](https://www.bilibili.com/video/BV1Up421X73k?p=5)
-
-- LLaMA3架构全解与代码复现 @菜菜TsaiTsai
-  - [x] [LLaMA原理精讲与架构复现（课件）](./Open-source-model/LLaMA3架构全解与代码复现/LLaMA原理精讲与架构复现.md)
-  - [x] [LLaMA整体架构与Embeddings（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=1)
-  - [x] [RMSNorm均方根层归一化（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=2)
-  - [x] [极速版旋转位置编码讲解（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=3)
-  - [x] [LlaMA架构中的注意力机制（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=4)
-  - [x] [LlaMA架构的完整复现（视频）](https://www.bilibili.com/video/BV1YP1oYiEJV/?p=5)
-
-- ChatGLM3 @九天Hector
-  - [x] [ChatGLM3重磅上线（视频）](https://www.bilibili.com/video/BV1Hc411q76k)
-  - [x] [ChatGLM3模型性能（视频）](https://www.bilibili.com/video/BV14N4y1674J)
-  - [x] [ChatGLM3多角色对话功能（视频）](https://www.bilibili.com/video/BV1fg4y197xM)
-  - [x] [ChatGLM3 Function calling功能（视频）](https://www.bilibili.com/video/BV1K94y157gd)
-  - [x] [ChatGLM3全新消息队列构建方法及模型性能评测（课件）](./Open-source-model/ChatGLM3性能测评/ChatGLM3全新消息队列构建方法及模型性能评测.md)
-  - [x] [ChatGLM3推理性能评测（视频）](https://www.bilibili.com/video/BV1BG411X7Hk)
-  - [x] [ChatGLM3-6B零基础部署与使用指南（课件）](./Open-source-model/ChatGLM3-6B部署/ChatGLM3-6B零基础部署与使用指南.md)
-  - [x] [ChatGLM3安装部署（上）（视频）](https://www.bilibili.com/video/BV1gN4y1r7RX)
-  - [x] [ChatGLM3安装部署（下）（视频）](https://www.bilibili.com/video/BV18M411Q7Pp)
-  - [x] [ChatGLM3 Function calling功能介绍与Agent实战（课件）](./Open-source-model/ChatGLM3%2BFunction%2Bcalling/ChatGLM3%20Function%20calling功能介绍与Agent实战.md)
-  - [x] [ChatGLM3工具调用实战（视频）](https://www.bilibili.com/video/BV1V84y1971r)
-  - [x] [ChatGLM3 Agent开发实战（视频）](https://www.bilibili.com/video/BV1Wy4y1c7oA)
-
-- Baichuan2 @木羽Cheney
-  - [x] [BaiChuan 2 大模型生态介绍及本地私有化部署方案（课件）](./Open-source-model/BaiChuan2/BaiChuan2%20大模型生态介绍及本地私有化部署方案.md)
-  - [x] [Baichuan2体系介绍与私有化部署（视频）](https://www.bilibili.com/video/BV15142197ph)
 
 ## 3、RAG
 - GraphRAG v0.5.0 @九天Hector
