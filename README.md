@@ -3,7 +3,7 @@
   <h1>近期更新</h1>
 
 
-   [💥DeepSeek-R1模型本地部署指南与调用方法](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek-R1/DeepSeek%20R1%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E4%B8%8E%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95/DeepSeek%20R1%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E4%B8%8E%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95.md)
+   [💥DeepSeek-R1推理大模型全解](Open-source-model/DeepSeek-R1/DeepSeek%20R1推理大模型/DeepSeek%20R1推理大模型.md)
 
    [🔥完整复现DeepSeek-V3模型训练全过程](Open-source-model/DeepSeek-V3/README_DS.md)
 
@@ -50,7 +50,9 @@
 - DeepSeek R1 @九天Hector
   - [x] [DeepSeek R1全面解析！小尺寸推理模型企业可本地部署（视频）](https://www.bilibili.com/video/BV1UBwbe4E1D)
   - [x] [DeepSeek R1 API调用指南（课件）](./Open-source-model/DeepSeek-R1/DeepSeek%20R1%20API调用指南/DeepSeek%20R1%20API调用指南.md)
-  - [x] [DeepSeek R1 本地部署与调用方法（课件）](./Open-source-model/DeepSeek-R1/DeepSeek%20R1本地部署与调用方法/DeepSeek%20R1本地部署与调用方法.md)
+  - [x] [DeepSeek R1 本地部署与调用方法（课件）](./Open-source-model/DeepSeek-R1/DeepSeek%20R1部署与调用方法/DeepSeek%20R1部署与调用方法.md)
+  - [x] [DeepSeek R1蒸馏模型部署与调用（课件）](./Open-source-model/DeepSeek-R1/DeepSeek%20R1蒸馏模型部署与调用/DeepSeek%20R1蒸馏模型部署与调用.md)
+  - [x] [DeepSeek R1蒸馏1.5B Qwen模型调用流程（课件）](./Open-source-model/DeepSeek-R1/DeepSeek-R1蒸馏1.5B%20Qwen模型调用流程/DeepSeek-R1蒸馏1.5B%20Qwen模型调用流程.md)
 
 - DeepSeek v3 入门介绍 @九天Hector
   - [x] [DeepSeek v3模型介绍（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=2)
