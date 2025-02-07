@@ -3,6 +3,8 @@
   <h1>近期更新</h1>
 
 
+   [🤩DeepSeek系列专栏大合集「点我点我」～](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek%20%E7%B3%BB%E5%88%97%E4%B8%93%E6%A0%8F%E5%90%88%E9%9B%86/DeepSeek%20%E7%B3%BB%E5%88%97%E4%B8%93%E6%A0%8F%E5%90%88%E9%9B%86.md)
+
    [💥DeepSeek-R1推理大模型全解](Open-source-model/DeepSeek-R1/DeepSeek%20R1推理大模型/DeepSeek%20R1推理大模型.md)
 
    [🔥完整复现DeepSeek-V3模型训练全过程](Open-source-model/DeepSeek-V3/README_DS.md)
@@ -47,12 +49,28 @@
 &emsp;&emsp;[@九天Hector真人讲解最新大模型技术栈梳理！](https://bilibili.com/video/BV1sR2mYeECv)玩转开源&在线大模型！微调、RAG、Agent开发全进阶技术详解！
 
 ## 1、开源大模型
-- DeepSeek R1 @九天Hector
+- DeepSeek R1 高效微调 @九天Hector
+  - [x] [训练定制化DeepSeek R1！零基础DeepSeek R1高效微调实战（视频）](https://www.bilibili.com/video/BV1YjN8eGE1H)
+  - [x] [DeepSeek R1 Distill高效微调入门实战（课件）](./Open-source-model/DeepSeek%20R1%20Distill高效微调入门实战/DeepSeek%20R1%20Distill高效微调入门实战.md)
+
+- DeepSeek R1 本地知识库问答 @九天Hector
+  - [x] [DeepSeek R1搭建本地知识库问答系统（视频）](https://www.bilibili.com/video/BV12qF2ePEDa/?)
+  - [x] [DeepSeek R1本地知识库问答快速实战（课件）](./Open-source-model/DeepSeek%20R1本地知识库问答快速实战/DeepSeek%20R1本地知识库问答快速实战.md)
+
+- DeepSeek Janus @九天Hector
+  - [x] [DeepSeek Janus Pro本地部署与调用实战！（视频）](https://www.bilibili.com/video/BV1ZqFse9Egc/)
+  - [x] [DeepSeek Janus本地部署与调用实战（课件 ）](./Open-source-model/DeepSeek%20Janus本地部署与调用实战/DeepSeek%20Janus本地部署与调用实战.md)
+  - [x] [Janus Pro本地调用指南(课件)](./Open-source-model/Janus%20Pro本地调用指南/Janus%20Pro本地调用指南.md)
+
+- DeepSeek R1@九天Hector
   - [x] [DeepSeek R1全面解析！小尺寸推理模型企业可本地部署（视频）](https://www.bilibili.com/video/BV1UBwbe4E1D)
   - [x] [DeepSeek R1 API调用指南（课件）](./Open-source-model/DeepSeek-R1/DeepSeek%20R1%20API调用指南/DeepSeek%20R1%20API调用指南.md)
+  - [x] [DeepSeek R1 API调用实战｜自动编程、自动机器学习项目入门实战（视频）](https://www.bilibili.com/video/BV1UyfGYqE28)
   - [x] [DeepSeek R1 本地部署与调用方法（课件）](./Open-source-model/DeepSeek-R1/DeepSeek%20R1部署与调用方法/DeepSeek%20R1部署与调用方法.md)
+  - [x] [DeepSeek R1&蒸馏模型本地部署指南丨DeepSeek R1离线调用（视频）](https://www.bilibili.com/video/BV1UofEYXEtv)
   - [x] [DeepSeek R1蒸馏模型部署与调用（课件）](./Open-source-model/DeepSeek-R1/DeepSeek%20R1蒸馏模型部署与调用/DeepSeek%20R1蒸馏模型部署与调用.md)
   - [x] [DeepSeek R1蒸馏1.5B Qwen模型调用流程（课件）](./Open-source-model/DeepSeek-R1/DeepSeek-R1蒸馏1.5B%20Qwen模型调用流程/DeepSeek-R1蒸馏1.5B%20Qwen模型调用流程.md)
+  - [x] [模型蒸馏快速入门丨从零训练DeepSeek R1 Distill模型（视频）](https://www.bilibili.com/video/BV1tyfdY4Eyu)
 
 - DeepSeek v3 入门介绍 @九天Hector
   - [x] [DeepSeek v3模型介绍（视频）](https://www.bilibili.com/video/BV1JuwVewELc/?p=2)
