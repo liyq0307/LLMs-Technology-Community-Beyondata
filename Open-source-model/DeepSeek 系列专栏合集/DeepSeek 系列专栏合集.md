@@ -2,7 +2,7 @@
   <h1>DeepSeek系列专栏合集</h1>
 </div>
 
-> DeepSeek系列教学视频持续更新中，数据、代码、权重等全公开！由于文件格式原因无法上传飞书社区，需要的小伙伴可添加⬇️助理，领取完整学习资料哦～
+> DeepSeek系列教学视频持续更新中，数据、代码、权重等全公开！需要的小伙伴可添加⬇️助理，领取完整学习资料哦～
 
 ![](images/image.png)
 
@@ -14,6 +14,8 @@
 
 ✅**DeepSeek R1 入门介绍&本地部署**
 
+* [零基础揭秘DeepSeek R1训练流程！多阶段GRPO强化学习训练、模型蒸馏技术揭秘！（视频）](https://www.bilibili.com/video/BV1ESAMepE4K)
+
 * [DeepSeek R1全面解析！小尺寸推理模型企业可本地部署（视频）](https://www.bilibili.com/video/BV1UBwbe4E1D)
 
 ⭐️[DeepSeek v3 API接入指南（课件）](https://kq4b3vgg5b.feishu.cn/wiki/IEM3w5KgWilQcHklTVfcgH8Pn9e?from=from_copylink)
@@ -23,6 +25,23 @@
 ⭐️[DeepSeek R1本地部署与调用方法（课件）](https://kq4b3vgg5b.feishu.cn/wiki/XGnowJW70ikV6hkXzbhcLWYGnBc?from=from_copylink)
 
 * [DeepSeek R1&蒸馏模型本地部署指南丨DeepSeek R1离线调用（视频）](https://www.bilibili.com/video/BV1UofEYXEtv)
+
+✅ **DeepSeek R1 企业级部署**
+
+⭐️[DeepSeek R1 + Open-Webui多功能企业级部署实战（课件）](https://kq4b3vgg5b.feishu.cn/wiki/Kw00w4KfCin7sRkAJjtcOYmWnYs?from=from_copylink)
+
+✅ **DeepSeek R1 高性能部署实战**
+
+* [独家KTransformers技术实战！单卡4090运行DeepSeek满血版，独家FastAPI脚本编写（视频）](https://www.bilibili.com/video/BV1kyAke9EBA)
+
+⭐️[DeepSeek-R1高性能部署实战(课件)](https://kq4b3vgg5b.feishu.cn/wiki/HOrmwchRGi7WQBk5eBCcZFTsn3I?from=from_copylink)
+
+✅ **DeepSeek R1 GRPO算法实战**
+
+* [DeepSeek R1论文逐段精读与训练流程代码复现｜GRPO原理介绍与代码复现（视频）](https://www.bilibili.com/video/BV1n9NfezErB)
+
+⭐️[DeepSeek R1 GRPO算法实战（课件）](https://kq4b3vgg5b.feishu.cn/wiki/CwOWwlFP7iIds1kNQRucLsQ9nlf?from=from_copylink)
+
 
 ✅ **DeepSeek R1 模型蒸馏技术详解**
 

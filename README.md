@@ -49,8 +49,20 @@
 &emsp;&emsp;[@九天Hector真人讲解最新大模型技术栈梳理！](https://bilibili.com/video/BV1sR2mYeECv)玩转开源&在线大模型！微调、RAG、Agent开发全进阶技术详解！
 
 ## 1、开源大模型
+- DeepSeek R1 高性能部署实战 @九天Hector
+  - [x] [独家KTransformers技术实战！单卡4090运行DeepSeek满血版，独家FastAPI脚本编写（视频）](https://www.bilibili.com/video/BV1kyAke9EBA)
+  - [x] [DeepSeek-R1高性能部署实战(课件)](./Open-source-model/DeepSeek-R1高性能部署实战/DeepSeek-R1高性能部署实战.md)
+
+- DeepSeek R1 企业级部署 @九天Hector
+  - [x] [DeepSeek R1 + Open-Webui多功能企业级部署实战（课件）](./Open-source-model/DeepSeek%20R1%20%2B%20Open-Webui多功能企业级部署实战/DeepSeek%20R1%20%2B%20Open-Webui多功能企业级部署实战.md)
+
+- DeepSeek R1 GRPO算法实战 @九天Hector
+  - [x] [DeepSeek R1论文逐段精读与训练流程代码复现｜GRPO原理介绍与代码复现（视频）](https://www.bilibili.com/video/BV1n9NfezErB)
+  - [x] [DeepSeek R1 论文精读与复现-GRPO算法实战（课件）](./Open-source-model/DeepSeek%20R1%20论文精读与复现-GRPO算法实战/DeepSeek%20R1%20论文精读与复现-GRPO算法实战.md)
+
 - DeepSeek R1 高效微调 @九天Hector
   - [x] [训练定制化DeepSeek R1！零基础DeepSeek R1高效微调实战（视频）](https://www.bilibili.com/video/BV1YjN8eGE1H)
+  - [x] [DeepSeek R1高效微调入门（课件）](./Open-source-model/DeepSeek%20R1微调实战/DeepSeek%20R1微调实战.md)
   - [x] [DeepSeek R1 Distill高效微调入门实战（课件）](./Open-source-model/DeepSeek%20R1%20Distill高效微调入门实战/DeepSeek%20R1%20Distill高效微调入门实战.md)
 
 - DeepSeek R1 本地知识库问答 @九天Hector
