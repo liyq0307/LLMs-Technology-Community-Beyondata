@@ -3,9 +3,17 @@
   <h1>近期更新</h1>
 
 
-   [🤩DeepSeek系列专栏大合集「点我点我」～](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek%20%E7%B3%BB%E5%88%97%E4%B8%93%E6%A0%8F%E5%90%88%E9%9B%86/DeepSeek%20%E7%B3%BB%E5%88%97%E4%B8%93%E6%A0%8F%E5%90%88%E9%9B%86.md)
+   [💥MCP快速入门实战！](https://kq4b3vgg5b.feishu.cn/wiki/ETqzwH4THiTY8kkGqAucYbSonPt?from=from_copylink)
 
-   [💥DeepSeek-R1推理大模型全解](Open-source-model/DeepSeek-R1/DeepSeek%20R1推理大模型/DeepSeek%20R1推理大模型.md)
+   [🔥Ktransformers+Unsloth联合部署方案实践](https://kq4b3vgg5b.feishu.cn/wiki/QJ5ywpjnvieTKZk5kPHcG3sLnkd?from=from_copylink)
+
+   [🔥Unsloth R1动态量化部署方案](https://kq4b3vgg5b.feishu.cn/wiki/UC0Yw4WzTix4fAkboPccaop1nvg?from=from_copylink)
+
+   [🔥独家KTransformers技术实战！](https://kq4b3vgg5b.feishu.cn/wiki/HOrmwchRGi7WQBk5eBCcZFTsn3I)
+
+   [🔥大模型配置硬件参考自查表](https://kq4b3vgg5b.feishu.cn/wiki/Cwfrw3rh6isIcskr0q9cvxxDnEe)
+
+   [🔥DeepSeek-R1推理大模型全解](Open-source-model/DeepSeek-R1/DeepSeek%20R1推理大模型/DeepSeek%20R1推理大模型.md)
 
    [🔥完整复现DeepSeek-V3模型训练全过程](Open-source-model/DeepSeek-V3/README_DS.md)
 
@@ -48,7 +56,16 @@
 
 &emsp;&emsp;[@九天Hector真人讲解最新大模型技术栈梳理！](https://bilibili.com/video/BV1sR2mYeECv)玩转开源&在线大模型！微调、RAG、Agent开发全进阶技术详解！
 
+## 🌟新手必看
+  - [x] [「独家」零基础也能玩转大模型的入门教程合集丨内含学习路径、硬件配置、基础知识入门...](https://kq4b3vgg5b.feishu.cn/wiki/F7gnwNzMWiPSyukEGxAcKRg5nog)
+
+## 🔥DeepSeek 专栏合集（持续更新中...）
+  - [x] [DeepSeek 系列专栏大合集丨包含R1、Janus、V3的介绍、部署、微调、应用开发...](https://github.com/fufankeji/LLMs-Technology-Community-Beyondata/blob/main/Open-source-model/DeepSeek%20%E7%B3%BB%E5%88%97%E4%B8%93%E6%A0%8F%E5%90%88%E9%9B%86/DeepSeek%20%E7%B3%BB%E5%88%97%E4%B8%93%E6%A0%8F%E5%90%88%E9%9B%86.md)
+
 ## 1、开源大模型
+- QwQ高效微调实战 @九天Hector
+  - [x] [QwQ-32B高效微调实战（课件）](https://www.bilibili.com/video/BV1kyAke9EBA)
+
 - DeepSeek R1 高性能部署实战 @九天Hector
   - [x] [独家KTransformers技术实战！单卡4090运行DeepSeek满血版，独家FastAPI脚本编写（视频）](https://www.bilibili.com/video/BV1kyAke9EBA)
   - [x] [DeepSeek-R1高性能部署实战(课件)](./Open-source-model/DeepSeek-R1高性能部署实战/DeepSeek-R1高性能部署实战.md)
