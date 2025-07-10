@@ -2,6 +2,7 @@
   <img src="./images/head-img1.png" >
   <h1>🔶 近期热门更新</h1>
 
+   [⭐ LangGraph快速入门与企业级项目开发实战](https://kq4b3vgg5b.feishu.cn/wiki/SKO3w1ddTi9ctdkXLmQcbYEfnvF?from=from_copylink)
 
    [⭐ LangChain从入门到企业级项目实战合集](https://kq4b3vgg5b.feishu.cn/wiki/GyXZwF4sbiSbQfkvdFHc5cP9nCh?from=from_copylink)
 
